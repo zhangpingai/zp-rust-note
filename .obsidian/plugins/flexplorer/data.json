@@ -13,9 +13,9 @@
       "isHidden": false,
       "sortOrder": "custom",
       "customOrder": [
+        "assets",
         "第一个Rust项目",
         "Rust GUI各种框架.md",
-        "assets",
         "Rust官网和安装.md",
         "Rust语言圣经实战",
         "small-rust-hermes 3000 行 Rust 构建一个可自我进化的 AI Agent，越用它，它越懂我.md",
@@ -268,8 +268,8 @@
       "isHidden": false,
       "sortOrder": "custom",
       "customOrder": [
-        "rust-code",
         "assets",
+        "rust-code",
         "Rust语言圣经.md"
       ]
     },
@@ -812,6 +812,7 @@
       "isHidden": false,
       "sortOrder": "custom",
       "customOrder": [
+        "c02_rust_jichu_rumen-c5171c027074c8c1.d",
         "aho_corasick-e88fcc70a002de1e.d",
         "anstyle_parse-62995aaea507db56.d",
         "anstyle_query-e8dc11ea0c7295cb.d",
@@ -1255,6 +1256,7 @@
       "isHidden": false,
       "sortOrder": "custom",
       "customOrder": [
+        "c02_rust_jichu_rumen-3hgkksymfxdw6",
         "c02_rust_jichu_rumen-3pgcmh1yngpw8",
         "c02_rust_jichu_rumen-1nf5x7sw1sar1",
         "c02_rust_jichu_rumen-28348pp9gewy4"
@@ -5251,6 +5253,35 @@
       "isHidden": false
     },
     "Rust/第一个Rust项目/deployment.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Rust/Rust语言圣经实战/rust-code/c02_rust_jichu_rumen/target/debug/incremental/c02_rust_jichu_rumen-3hgkksymfxdw6": {
+      "isPinned": false,
+      "isHidden": false,
+      "customOrder": [
+        "s-hjdi1byw2i-0wd4u97.lock",
+        "s-hjdi1byw2i-0wd4u97-working"
+      ],
+      "sortOrder": "custom"
+    },
+    "Rust/Rust语言圣经实战/rust-code/c02_rust_jichu_rumen/target/debug/incremental/c02_rust_jichu_rumen-3hgkksymfxdw6/s-hjdi1byw2i-0wd4u97-working": {
+      "isPinned": false,
+      "isHidden": false,
+      "customOrder": [
+        "dep-graph.part.bin"
+      ],
+      "sortOrder": "custom"
+    },
+    "Rust/Rust语言圣经实战/rust-code/c02_rust_jichu_rumen/target/debug/incremental/c02_rust_jichu_rumen-3hgkksymfxdw6/s-hjdi1byw2i-0wd4u97.lock": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Rust/Rust语言圣经实战/rust-code/c02_rust_jichu_rumen/target/debug/incremental/c02_rust_jichu_rumen-3hgkksymfxdw6/s-hjdi1byw2i-0wd4u97-working/dep-graph.part.bin": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Rust/Rust语言圣经实战/rust-code/c02_rust_jichu_rumen/target/debug/deps/c02_rust_jichu_rumen-c5171c027074c8c1.d": {
       "isPinned": false,
       "isHidden": false
     }
