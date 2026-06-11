@@ -1280,7 +1280,15 @@
       "isHidden": false,
       "sortOrder": "custom",
       "customOrder": [
-        "s-hjdimo1cly-10ahn87.lock",
+        "s-hjdj1p7cq2-12vgg3n.lock",
+        "s-hjdj1mxx3y-0yqjcpq-working",
+        "s-hjdj1mxx3y-0yqjcpq.lock",
+        "s-hjdj1lendj-1jensco-working",
+        "s-hjdj1lendj-1jensco.lock",
+        "s-hjdj1kgssy-14xzakm-2dvt08iatoj0t1hof1sn6ag30",
+        "s-hjdj1detqo-0n6014p.lock",
+        "s-hjdj19gaqu-016w50j-working",
+        "s-hjdj19gaqu-016w50j.lock",
         "s-hjdimmny7o-0sk6ha8.lock",
         "s-hjdimk10ec-1edhwem.lock",
         "s-hjdimis2k1-0hh63j5-working",
@@ -1365,6 +1373,8 @@
       "isHidden": false,
       "sortOrder": "custom",
       "customOrder": [
+        "s-hjdimqi20a-14cwmjo-4okunjnymm4pk0geyx9vmajfa",
+        "s-hjdj1uh1dm-0ruh5ik.lock",
         "s-hjdikjoe6y-0cjpkxo-dyuqp4o2c66o5boglgea8d73v",
         "s-hjdimqi20a-14cwmjo.lock",
         "s-hjdic2c2z3-11ehwur-201jhw0qpxc2jidkap1vkeh5c",
@@ -5260,7 +5270,13 @@
       "isPinned": false,
       "isHidden": false,
       "customOrder": [
-        "s-hjdimo1clr-10sfwhg.lock",
+        "s-hjdj1p7coz-0r58dob.lock",
+        "s-hjdj1mxx4c-0qz3hq6-working",
+        "s-hjdj1lendz-0k1ndxg-working",
+        "s-hjdj1kgsse-0y9obyz-9j4isirpm81bgot0zbi63gqv1",
+        "s-hjdj1kgsse-0y9obyz.lock",
+        "s-hjdj1detra-07f7101.lock",
+        "s-hjdj19gar2-0rs2wvz-working",
         "s-hjdimmny7e-1vuxq8j.lock",
         "s-hjdimk10i4-04o6mdf.lock",
         "s-hjdimis2js-10pj004-working",
@@ -6924,14 +6940,6 @@
       "isPinned": false,
       "isHidden": false
     },
-    "Rust/Rust语言圣经实战/rust-code/c02_rust_jichu_rumen/target/debug/incremental/c02_rust_jichu_rumen-2ophiwfgz45o1/s-hjdimo1clr-10sfwhg.lock": {
-      "isPinned": false,
-      "isHidden": false
-    },
-    "Rust/Rust语言圣经实战/rust-code/c02_rust_jichu_rumen/target/debug/incremental/c02_rust_jichu_rumen-28348pp9gewy4/s-hjdimo1cly-10ahn87.lock": {
-      "isPinned": false,
-      "isHidden": false
-    },
     "Rust/Rust语言圣经实战/rust-code/c02_rust_jichu_rumen/target/debug/incremental/c02_rust_jichu_rumen-1nf5x7sw1sar1/s-hjdimqi20a-14cwmjo.lock": {
       "isPinned": false,
       "isHidden": false
@@ -6951,14 +6959,9 @@
         "5vhf1hvi8qa2yash44dk4kd2z.o",
         "4ryay6jhuz0w6txhc7wtiqmts.o",
         "2rbyycvc22gwx5cb5oyidlddh.o",
-        "2kf41pwx15ratmzpip6mrv35t.o",
-        "0317moruww4w39ubvtuzi7s99.o"
+        "2kf41pwx15ratmzpip6mrv35t.o"
       ],
       "sortOrder": "custom"
-    },
-    "Rust/Rust语言圣经实战/rust-code/c02_rust_jichu_rumen/target/debug/incremental/c02_rust_jichu_rumen-1nf5x7sw1sar1/s-hjdikjoe6y-0cjpkxo-dyuqp4o2c66o5boglgea8d73v/0317moruww4w39ubvtuzi7s99.o": {
-      "isPinned": false,
-      "isHidden": false
     },
     "Rust/Rust语言圣经实战/rust-code/c02_rust_jichu_rumen/target/debug/incremental/c02_rust_jichu_rumen-1nf5x7sw1sar1/s-hjdikjoe6y-0cjpkxo-dyuqp4o2c66o5boglgea8d73v/2kf41pwx15ratmzpip6mrv35t.o": {
       "isPinned": false,
@@ -7005,6 +7008,315 @@
       "isHidden": false
     },
     "Rust/Rust语言圣经实战/rust-code/c02_rust_jichu_rumen/target/debug/incremental/c02_rust_jichu_rumen-1nf5x7sw1sar1/s-hjdikjoe6y-0cjpkxo-dyuqp4o2c66o5boglgea8d73v/work-products.bin": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Rust/Rust语言圣经实战/rust-code/c02_rust_jichu_rumen/target/debug/incremental/c02_rust_jichu_rumen-28348pp9gewy4/s-hjdj19gaqu-016w50j.lock": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Rust/Rust语言圣经实战/rust-code/c02_rust_jichu_rumen/target/debug/incremental/c02_rust_jichu_rumen-2ophiwfgz45o1/s-hjdj19gar2-0rs2wvz-working": {
+      "isPinned": false,
+      "isHidden": false,
+      "customOrder": [
+        "work-products.bin",
+        "query-cache.bin",
+        "dep-graph.part.bin",
+        "dep-graph.bin"
+      ],
+      "sortOrder": "custom"
+    },
+    "Rust/Rust语言圣经实战/rust-code/c02_rust_jichu_rumen/target/debug/incremental/c02_rust_jichu_rumen-2ophiwfgz45o1/s-hjdj19gar2-0rs2wvz-working/dep-graph.bin": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Rust/Rust语言圣经实战/rust-code/c02_rust_jichu_rumen/target/debug/incremental/c02_rust_jichu_rumen-2ophiwfgz45o1/s-hjdj19gar2-0rs2wvz-working/dep-graph.part.bin": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Rust/Rust语言圣经实战/rust-code/c02_rust_jichu_rumen/target/debug/incremental/c02_rust_jichu_rumen-2ophiwfgz45o1/s-hjdj19gar2-0rs2wvz-working/query-cache.bin": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Rust/Rust语言圣经实战/rust-code/c02_rust_jichu_rumen/target/debug/incremental/c02_rust_jichu_rumen-2ophiwfgz45o1/s-hjdj19gar2-0rs2wvz-working/work-products.bin": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Rust/Rust语言圣经实战/rust-code/c02_rust_jichu_rumen/target/debug/incremental/c02_rust_jichu_rumen-28348pp9gewy4/s-hjdj19gaqu-016w50j-working": {
+      "isPinned": false,
+      "isHidden": false,
+      "customOrder": [
+        "work-products.bin",
+        "query-cache.bin",
+        "dep-graph.part.bin"
+      ],
+      "sortOrder": "custom"
+    },
+    "Rust/Rust语言圣经实战/rust-code/c02_rust_jichu_rumen/target/debug/incremental/c02_rust_jichu_rumen-28348pp9gewy4/s-hjdj19gaqu-016w50j-working/dep-graph.part.bin": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Rust/Rust语言圣经实战/rust-code/c02_rust_jichu_rumen/target/debug/incremental/c02_rust_jichu_rumen-28348pp9gewy4/s-hjdj19gaqu-016w50j-working/query-cache.bin": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Rust/Rust语言圣经实战/rust-code/c02_rust_jichu_rumen/target/debug/incremental/c02_rust_jichu_rumen-28348pp9gewy4/s-hjdj19gaqu-016w50j-working/work-products.bin": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Rust/Rust语言圣经实战/rust-code/c02_rust_jichu_rumen/target/debug/incremental/c02_rust_jichu_rumen-28348pp9gewy4/s-hjdj1detqo-0n6014p.lock": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Rust/Rust语言圣经实战/rust-code/c02_rust_jichu_rumen/target/debug/incremental/c02_rust_jichu_rumen-2ophiwfgz45o1/s-hjdj1detra-07f7101.lock": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Rust/Rust语言圣经实战/rust-code/c02_rust_jichu_rumen/target/debug/incremental/c02_rust_jichu_rumen-2ophiwfgz45o1/s-hjdj1kgsse-0y9obyz.lock": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Rust/Rust语言圣经实战/rust-code/c02_rust_jichu_rumen/target/debug/incremental/c02_rust_jichu_rumen-28348pp9gewy4/s-hjdj1kgssy-14xzakm-2dvt08iatoj0t1hof1sn6ag30": {
+      "isPinned": false,
+      "isHidden": false,
+      "customOrder": [
+        "work-products.bin",
+        "dep-graph.bin",
+        "query-cache.bin"
+      ],
+      "sortOrder": "custom"
+    },
+    "Rust/Rust语言圣经实战/rust-code/c02_rust_jichu_rumen/target/debug/incremental/c02_rust_jichu_rumen-28348pp9gewy4/s-hjdj1kgssy-14xzakm-2dvt08iatoj0t1hof1sn6ag30/query-cache.bin": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Rust/Rust语言圣经实战/rust-code/c02_rust_jichu_rumen/target/debug/incremental/c02_rust_jichu_rumen-28348pp9gewy4/s-hjdj1kgssy-14xzakm-2dvt08iatoj0t1hof1sn6ag30/dep-graph.bin": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Rust/Rust语言圣经实战/rust-code/c02_rust_jichu_rumen/target/debug/incremental/c02_rust_jichu_rumen-28348pp9gewy4/s-hjdj1kgssy-14xzakm-2dvt08iatoj0t1hof1sn6ag30/work-products.bin": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Rust/Rust语言圣经实战/rust-code/c02_rust_jichu_rumen/target/debug/incremental/c02_rust_jichu_rumen-2ophiwfgz45o1/s-hjdj1kgsse-0y9obyz-9j4isirpm81bgot0zbi63gqv1": {
+      "isPinned": false,
+      "isHidden": false,
+      "customOrder": [
+        "work-products.bin",
+        "query-cache.bin",
+        "dep-graph.bin"
+      ],
+      "sortOrder": "custom"
+    },
+    "Rust/Rust语言圣经实战/rust-code/c02_rust_jichu_rumen/target/debug/incremental/c02_rust_jichu_rumen-2ophiwfgz45o1/s-hjdj1kgsse-0y9obyz-9j4isirpm81bgot0zbi63gqv1/dep-graph.bin": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Rust/Rust语言圣经实战/rust-code/c02_rust_jichu_rumen/target/debug/incremental/c02_rust_jichu_rumen-2ophiwfgz45o1/s-hjdj1kgsse-0y9obyz-9j4isirpm81bgot0zbi63gqv1/query-cache.bin": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Rust/Rust语言圣经实战/rust-code/c02_rust_jichu_rumen/target/debug/incremental/c02_rust_jichu_rumen-2ophiwfgz45o1/s-hjdj1kgsse-0y9obyz-9j4isirpm81bgot0zbi63gqv1/work-products.bin": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Rust/Rust语言圣经实战/rust-code/c02_rust_jichu_rumen/target/debug/incremental/c02_rust_jichu_rumen-28348pp9gewy4/s-hjdj1lendj-1jensco.lock": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Rust/Rust语言圣经实战/rust-code/c02_rust_jichu_rumen/target/debug/incremental/c02_rust_jichu_rumen-2ophiwfgz45o1/s-hjdj1lendz-0k1ndxg-working": {
+      "isPinned": false,
+      "isHidden": false,
+      "customOrder": [
+        "work-products.bin",
+        "query-cache.bin",
+        "dep-graph.part.bin",
+        "dep-graph.bin"
+      ],
+      "sortOrder": "custom"
+    },
+    "Rust/Rust语言圣经实战/rust-code/c02_rust_jichu_rumen/target/debug/incremental/c02_rust_jichu_rumen-2ophiwfgz45o1/s-hjdj1lendz-0k1ndxg-working/dep-graph.bin": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Rust/Rust语言圣经实战/rust-code/c02_rust_jichu_rumen/target/debug/incremental/c02_rust_jichu_rumen-2ophiwfgz45o1/s-hjdj1lendz-0k1ndxg-working/dep-graph.part.bin": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Rust/Rust语言圣经实战/rust-code/c02_rust_jichu_rumen/target/debug/incremental/c02_rust_jichu_rumen-2ophiwfgz45o1/s-hjdj1lendz-0k1ndxg-working/query-cache.bin": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Rust/Rust语言圣经实战/rust-code/c02_rust_jichu_rumen/target/debug/incremental/c02_rust_jichu_rumen-2ophiwfgz45o1/s-hjdj1lendz-0k1ndxg-working/work-products.bin": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Rust/Rust语言圣经实战/rust-code/c02_rust_jichu_rumen/target/debug/incremental/c02_rust_jichu_rumen-28348pp9gewy4/s-hjdj1lendj-1jensco-working": {
+      "isPinned": false,
+      "isHidden": false,
+      "customOrder": [
+        "work-products.bin",
+        "query-cache.bin",
+        "dep-graph.part.bin",
+        "dep-graph.bin"
+      ],
+      "sortOrder": "custom"
+    },
+    "Rust/Rust语言圣经实战/rust-code/c02_rust_jichu_rumen/target/debug/incremental/c02_rust_jichu_rumen-28348pp9gewy4/s-hjdj1lendj-1jensco-working/dep-graph.bin": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Rust/Rust语言圣经实战/rust-code/c02_rust_jichu_rumen/target/debug/incremental/c02_rust_jichu_rumen-28348pp9gewy4/s-hjdj1lendj-1jensco-working/dep-graph.part.bin": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Rust/Rust语言圣经实战/rust-code/c02_rust_jichu_rumen/target/debug/incremental/c02_rust_jichu_rumen-28348pp9gewy4/s-hjdj1lendj-1jensco-working/query-cache.bin": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Rust/Rust语言圣经实战/rust-code/c02_rust_jichu_rumen/target/debug/incremental/c02_rust_jichu_rumen-28348pp9gewy4/s-hjdj1lendj-1jensco-working/work-products.bin": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Rust/Rust语言圣经实战/rust-code/c02_rust_jichu_rumen/target/debug/incremental/c02_rust_jichu_rumen-28348pp9gewy4/s-hjdj1mxx3y-0yqjcpq.lock": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Rust/Rust语言圣经实战/rust-code/c02_rust_jichu_rumen/target/debug/incremental/c02_rust_jichu_rumen-28348pp9gewy4/s-hjdj1mxx3y-0yqjcpq-working": {
+      "isPinned": false,
+      "isHidden": false,
+      "customOrder": [
+        "work-products.bin",
+        "query-cache.bin",
+        "dep-graph.part.bin",
+        "dep-graph.bin"
+      ],
+      "sortOrder": "custom"
+    },
+    "Rust/Rust语言圣经实战/rust-code/c02_rust_jichu_rumen/target/debug/incremental/c02_rust_jichu_rumen-28348pp9gewy4/s-hjdj1mxx3y-0yqjcpq-working/dep-graph.bin": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Rust/Rust语言圣经实战/rust-code/c02_rust_jichu_rumen/target/debug/incremental/c02_rust_jichu_rumen-28348pp9gewy4/s-hjdj1mxx3y-0yqjcpq-working/dep-graph.part.bin": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Rust/Rust语言圣经实战/rust-code/c02_rust_jichu_rumen/target/debug/incremental/c02_rust_jichu_rumen-28348pp9gewy4/s-hjdj1mxx3y-0yqjcpq-working/query-cache.bin": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Rust/Rust语言圣经实战/rust-code/c02_rust_jichu_rumen/target/debug/incremental/c02_rust_jichu_rumen-28348pp9gewy4/s-hjdj1mxx3y-0yqjcpq-working/work-products.bin": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Rust/Rust语言圣经实战/rust-code/c02_rust_jichu_rumen/target/debug/incremental/c02_rust_jichu_rumen-2ophiwfgz45o1/s-hjdj1mxx4c-0qz3hq6-working": {
+      "isPinned": false,
+      "isHidden": false,
+      "customOrder": [
+        "work-products.bin",
+        "query-cache.bin",
+        "dep-graph.part.bin",
+        "dep-graph.bin"
+      ],
+      "sortOrder": "custom"
+    },
+    "Rust/Rust语言圣经实战/rust-code/c02_rust_jichu_rumen/target/debug/incremental/c02_rust_jichu_rumen-2ophiwfgz45o1/s-hjdj1mxx4c-0qz3hq6-working/dep-graph.bin": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Rust/Rust语言圣经实战/rust-code/c02_rust_jichu_rumen/target/debug/incremental/c02_rust_jichu_rumen-2ophiwfgz45o1/s-hjdj1mxx4c-0qz3hq6-working/dep-graph.part.bin": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Rust/Rust语言圣经实战/rust-code/c02_rust_jichu_rumen/target/debug/incremental/c02_rust_jichu_rumen-2ophiwfgz45o1/s-hjdj1mxx4c-0qz3hq6-working/query-cache.bin": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Rust/Rust语言圣经实战/rust-code/c02_rust_jichu_rumen/target/debug/incremental/c02_rust_jichu_rumen-2ophiwfgz45o1/s-hjdj1mxx4c-0qz3hq6-working/work-products.bin": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Rust/Rust语言圣经实战/rust-code/c02_rust_jichu_rumen/target/debug/incremental/c02_rust_jichu_rumen-2ophiwfgz45o1/s-hjdj1p7coz-0r58dob.lock": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Rust/Rust语言圣经实战/rust-code/c02_rust_jichu_rumen/target/debug/incremental/c02_rust_jichu_rumen-28348pp9gewy4/s-hjdj1p7cq2-12vgg3n.lock": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Rust/Rust语言圣经实战/rust-code/c02_rust_jichu_rumen/target/debug/incremental/c02_rust_jichu_rumen-1nf5x7sw1sar1/s-hjdj1uh1dm-0ruh5ik.lock": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Rust/Rust语言圣经实战/rust-code/c02_rust_jichu_rumen/target/debug/incremental/c02_rust_jichu_rumen-1nf5x7sw1sar1/s-hjdimqi20a-14cwmjo-4okunjnymm4pk0geyx9vmajfa": {
+      "isPinned": false,
+      "isHidden": false,
+      "customOrder": [
+        "work-products.bin",
+        "dep-graph.bin",
+        "query-cache.bin",
+        "d4viwuu0bnikvifqp9xibcyy9.o",
+        "cw20r3osqrm678aa1mrsv8c1c.o",
+        "ax5mvgn5c37ozpw2nwmvdwr8z.o",
+        "auiqc4xrg57u5wh7ekyexqk8g.o",
+        "8flt5x8ofzhh65386ehn3mga8.o",
+        "5vhf1hvi8qa2yash44dk4kd2z.o",
+        "4ryay6jhuz0w6txhc7wtiqmts.o",
+        "2rbyycvc22gwx5cb5oyidlddh.o",
+        "2kf41pwx15ratmzpip6mrv35t.o",
+        "0317moruww4w39ubvtuzi7s99.o"
+      ],
+      "sortOrder": "custom"
+    },
+    "Rust/Rust语言圣经实战/rust-code/c02_rust_jichu_rumen/target/debug/incremental/c02_rust_jichu_rumen-1nf5x7sw1sar1/s-hjdimqi20a-14cwmjo-4okunjnymm4pk0geyx9vmajfa/0317moruww4w39ubvtuzi7s99.o": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Rust/Rust语言圣经实战/rust-code/c02_rust_jichu_rumen/target/debug/incremental/c02_rust_jichu_rumen-1nf5x7sw1sar1/s-hjdimqi20a-14cwmjo-4okunjnymm4pk0geyx9vmajfa/2kf41pwx15ratmzpip6mrv35t.o": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Rust/Rust语言圣经实战/rust-code/c02_rust_jichu_rumen/target/debug/incremental/c02_rust_jichu_rumen-1nf5x7sw1sar1/s-hjdimqi20a-14cwmjo-4okunjnymm4pk0geyx9vmajfa/2rbyycvc22gwx5cb5oyidlddh.o": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Rust/Rust语言圣经实战/rust-code/c02_rust_jichu_rumen/target/debug/incremental/c02_rust_jichu_rumen-1nf5x7sw1sar1/s-hjdimqi20a-14cwmjo-4okunjnymm4pk0geyx9vmajfa/4ryay6jhuz0w6txhc7wtiqmts.o": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Rust/Rust语言圣经实战/rust-code/c02_rust_jichu_rumen/target/debug/incremental/c02_rust_jichu_rumen-1nf5x7sw1sar1/s-hjdimqi20a-14cwmjo-4okunjnymm4pk0geyx9vmajfa/5vhf1hvi8qa2yash44dk4kd2z.o": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Rust/Rust语言圣经实战/rust-code/c02_rust_jichu_rumen/target/debug/incremental/c02_rust_jichu_rumen-1nf5x7sw1sar1/s-hjdimqi20a-14cwmjo-4okunjnymm4pk0geyx9vmajfa/8flt5x8ofzhh65386ehn3mga8.o": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Rust/Rust语言圣经实战/rust-code/c02_rust_jichu_rumen/target/debug/incremental/c02_rust_jichu_rumen-1nf5x7sw1sar1/s-hjdimqi20a-14cwmjo-4okunjnymm4pk0geyx9vmajfa/auiqc4xrg57u5wh7ekyexqk8g.o": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Rust/Rust语言圣经实战/rust-code/c02_rust_jichu_rumen/target/debug/incremental/c02_rust_jichu_rumen-1nf5x7sw1sar1/s-hjdimqi20a-14cwmjo-4okunjnymm4pk0geyx9vmajfa/ax5mvgn5c37ozpw2nwmvdwr8z.o": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Rust/Rust语言圣经实战/rust-code/c02_rust_jichu_rumen/target/debug/incremental/c02_rust_jichu_rumen-1nf5x7sw1sar1/s-hjdimqi20a-14cwmjo-4okunjnymm4pk0geyx9vmajfa/cw20r3osqrm678aa1mrsv8c1c.o": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Rust/Rust语言圣经实战/rust-code/c02_rust_jichu_rumen/target/debug/incremental/c02_rust_jichu_rumen-1nf5x7sw1sar1/s-hjdimqi20a-14cwmjo-4okunjnymm4pk0geyx9vmajfa/d4viwuu0bnikvifqp9xibcyy9.o": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Rust/Rust语言圣经实战/rust-code/c02_rust_jichu_rumen/target/debug/incremental/c02_rust_jichu_rumen-1nf5x7sw1sar1/s-hjdimqi20a-14cwmjo-4okunjnymm4pk0geyx9vmajfa/query-cache.bin": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Rust/Rust语言圣经实战/rust-code/c02_rust_jichu_rumen/target/debug/incremental/c02_rust_jichu_rumen-1nf5x7sw1sar1/s-hjdimqi20a-14cwmjo-4okunjnymm4pk0geyx9vmajfa/dep-graph.bin": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "Rust/Rust语言圣经实战/rust-code/c02_rust_jichu_rumen/target/debug/incremental/c02_rust_jichu_rumen-1nf5x7sw1sar1/s-hjdimqi20a-14cwmjo-4okunjnymm4pk0geyx9vmajfa/work-products.bin": {
       "isPinned": false,
       "isHidden": false
     }
